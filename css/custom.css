@@ -1,0 +1,21 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+ul.nav{
+	font-family: 'Arvo', serif;
+	font-size: 15px;
+}
+
+.jumbotron{
+	text-align: center;
+	color: WHITE;
+	background-image: url(../linux1.jpg);
+}
+
+.jumbotron h1{
+	font-family: 'Arvo', serif;
+}
+
